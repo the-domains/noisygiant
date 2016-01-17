@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[noisygiant]]></title>
-        <description><![CDATA[noisygiant]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[A Resourceful Noisy Giant]]></title>
+        <description><![CDATA[A Resourceful Noisy Giant]]></description>
+        <link>https://thegrid.ai/noisygiant/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 11:09:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 11:22:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/noisygiant/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3 Steps To Sounding Like Someone Who Gets Promoted]]></title>
+            <description><![CDATA[<article><h1>3 Steps To Sounding Like Someone Who Gets Promoted</h1><h2>Dave Stachowiak</h2><p>"Take Ownership" - What does it mean? </p></article>]]></description>
+            <link>https://thegrid.ai/noisygiant/3-steps-to-sounding-like-someone-who-gets-promoted/index.html</link>
+            <guid isPermaLink="false">8117255a-9658-4bb1-8514-dee750b05215</guid>
+            <pubDate>Sun, 17 Jan 2016 11:22:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Ru... Resolutions are Meant to be Broken</p>]]></description>
-            <link>undefined4aa7a5f6-5a3f-477d-98b0-bb161bc703ed/index.html</link>
+            <link>https://thegrid.ai/noisygiant/4aa7a5f6-5a3f-477d-98b0-bb161bc703ed/index.html</link>
             <guid isPermaLink="false">4aa7a5f6-5a3f-477d-98b0-bb161bc703ed</guid>
             <pubDate>Sun, 17 Jan 2016 11:09:12 GMT</pubDate>
         </item>
