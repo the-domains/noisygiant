@@ -1,6 +1,6 @@
 name: noisygiant
 favicon: null
-layout_spectrum: 0.15694141876883805
+layout_spectrum: 0.9105
 typography_spectrum: 0.8394785148557276
 title: A Resourceful Noisy Giant
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.8168232524767518
-  lightness: 0.9537169933319092
-  saturation: 0.27618190413340926
-  rhythmicContrast: 0.6988348050508648
+    - '#b6b8b9'
+    - '#27262b'
+    - '#fed3c1'
+    - '#ae7f71'
+    - '#7a5741'
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 0.0625
+  rhythmicContrast: 0.5
 purpose: []
